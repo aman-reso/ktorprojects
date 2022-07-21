@@ -1,4 +1,4 @@
-package test.kotlin.com.example
+package test.com.example
 
 import io.ktor.server.routing.*
 import io.ktor.http.*

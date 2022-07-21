@@ -1,4 +1,4 @@
-package com.example.plugins
+package main.com.example.plugins
 
 import io.ktor.server.routing.*
 import io.ktor.http.*
