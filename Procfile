@@ -1,1 +1,1 @@
-web: java -jar build/libs/ktorprojects-0.0.1-all.jar
+web: build/install/ktorprojects/bin/ktorprojects
